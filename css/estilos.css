@@ -1,0 +1,36 @@
+#mi-parrafo{font-size: 200px ;
+color: blue;
+background-color: rgb(132, 0, 255);
+}
+
+p,span{
+    font-size: 30px ;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: brown;
+
+    padding: 1px 2px 2px 3px;
+    
+   border: 5px solid brown;
+
+   margin: 2px 3px 2px 3px;
+}
+/* comentario */
+h1{
+    font-weight: bold;
+    color: grey;
+    border: 10px red;
+    margin: 10px 20px 10px 20px;
+    padding: 50px;
+}
+
+section{ 
+    font-weight:50px lighter grey ;
+    border: 5px green bold ;
+    padding: 20px 50px ;
+    margin: 15px;
+}
+ .estaesmiclase{
+    background-color: black;
+     color: blueviolet
+}
