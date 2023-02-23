@@ -1,0 +1,28 @@
+.acordeon{
+    background-color: blueviolet;
+    padding: 3px;
+    margin: 3px;
+    width: auto;
+    
+
+}
+.acordeon .bloque{
+    background-color: aqua;
+    margin: 2px;
+    padding: 1;
+}
+.acordeon .h2{
+    background-color: red;
+    margin: 2px;
+    padding: 2px;
+}
+.acordeon .contenido{
+    background-color: green;
+    padding: 2px;
+}<div class="caja">
+<div class="texto">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus voluptates ullam, illum aperiam asperiores eveniet odit animi necessitatibus voluptatum tenetur repellat itaque repellendus earum excepturi labore dolores explicabo modi velit.
+<div class="texto-1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos quasi vitae tempore. Fugiat nemo tempora corporis placeat. Laboriosam, dicta iusto! Temporibus accusamus, esse incidunt placeat modi commodi ipsum possimus nulla.
+</div>
+<div class="texto-2">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure quisquam suscipit eos nisi, eius distinctio velit officia est saepe officiis dicta adipisci veritatis iste ad neque quam asperiores obcaecati perspiciatis!</div>
+<div class="borrar"></div>
+</div> 
